@@ -1,5 +1,5 @@
 ![logo](https://github.com/Sk-Shakeel07/Sk-Shakeel07/blob/main/sk%20shakeel%20akhtar%20(1).png)
-<h1 align="center">Hi 👋, I'm Sk Shakeel Akhtar</h1>
+<h1 align="center">Hi 👋, I'm  Shakeel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
