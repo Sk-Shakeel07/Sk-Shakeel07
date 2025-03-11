@@ -18,6 +18,9 @@
 - 📫 How to reach me **skkafilakhtar786@gmail.com**
 
 - ⚡ Fun fact **I think I am funny😊**
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/HIQG7JObbt/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
