@@ -36,4 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-shakeel07&show_icons=true&locale=en&layout=compact" alt="sk-shakeel07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-shakeel07&show_icons=true&locale=en" alt="sk-shakeel07" /></p>
-![Leetcode Stats](https://leetcard.jacoblin.cool/SK Shakeel Akhtar?theme=forest)
