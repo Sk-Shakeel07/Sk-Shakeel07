@@ -28,6 +28,10 @@
 <a href="https://www.linkedin.com/in/sk-shakeel-akhtar-0a42a2354" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sk shakeel akhtar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1N2BtNUE3g/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk shakeel akhtar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/skshakeelakhtar?igsh=cm9tN2Rudjd3MzBs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sk shakeel akhtar" height="30" width="40" /></a>
+  <a href="https://mail.google.com/" target="_blank">
+    <img align="center" src="https://www.pngmart.com/files/16/Gmail-Logo-PNG-Transparent-Image.png" alt="Gmail" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
