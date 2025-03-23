@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Advanced Java & Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sk-Shakeel07/PG-Life-Project](https://github.com/Sk-Shakeel07/PG-Life-Project)
+- 👨‍💻 All of my projects are available at [https://github.com/Sk-Shakeel07](https://github.com/Sk-Shakeel07)
 
 - 💬 Ask me about **Java,Python & Web-Dev**
 
