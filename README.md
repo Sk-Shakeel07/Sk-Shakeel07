@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://x.com/shakeel_ak8487?t=dOg3MefwbkqEMGbj-YVDFg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/sk shakeel akhtar?logo=twitter&style=for-the-badge" alt="sk shakeel akhtar" /></a> </p>
 
-- 🔭 I’m currently working on **Face Mask Detector Project**
+- 🔭 I’m currently working on **Face Emotion Recognition Project**
 
 - 🌱 I’m currently learning **Advanced Java & Deep Learning**
 
