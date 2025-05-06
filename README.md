@@ -29,7 +29,6 @@
 - 🌱 I’m currently learning [![Gen AI](https://img.shields.io/badge/Gen%20AI-307080?style=plastic)](your_link_here)
 [![ML](https://img.shields.io/badge/Machine%20Learning-103080?style=plastic)](your_link_here)
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-901030?style=plastic)](your_link_here)
-[![DSA](https://img.shields.io/badge/DSA-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)](your_link_here)
 
 - 👨‍💻 All of my projects are available at my Github Repositories 
 
