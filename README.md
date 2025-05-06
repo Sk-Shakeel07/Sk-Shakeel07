@@ -33,9 +33,10 @@
 
 - 👨‍💻 All of my projects are available at my Github Repositories 
 
-- 💬 Ask me about ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white),Python & [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
+- 💬 Ask me about ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+ [![Web Development](https://img.shields.io/badge/Web%20Development-0078D4?style=plastic)](your_link_here)
 
-- 📫 How to reach me  [![Gmail](https://img.shields.io/badge/Contact%20Me-blue?style=for-the-badge&logo=gmail)](mailto:skkafilakhtar786@gmail.com)
+- 📫 How to reach me  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:skkafilakhtar786@gmail.com)
 
 - ⚡ Fun fact **I think I am funny😊**
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/HIQG7JObbt/) - Check out my latest problems solved and challenges completed.
