@@ -70,4 +70,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-shakeel07&show_icons=true&locale=en" alt="sk-shakeel07" /></p>
 
-![logo](https://github.com/TVATDCI/TVATDCI/blob/main/assets/ani-down-aura.svg)
+![logo](https://github.com/TVATDCI/TVATDCI/blob/main/assets/ani-down.svg)
