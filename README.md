@@ -24,7 +24,7 @@
 
 <p align="left"> <a href="https://x.com/shakeel_ak8487?t=dOg3MefwbkqEMGbj-YVDFg&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/sk shakeel akhtar?logo=twitter&style=for-the-badge" alt="sk shakeel akhtar" /></a> </p>
 
-- 🔭 I’m currently working on **AstroBOT Project**
+- 🔭 I’m currently working on **MediBot Project**
 
 - 🌱 I’m currently learning [![Gen AI](https://img.shields.io/badge/Gen%20AI-307080?style=plastic)](your_link_here)
 [![ML](https://img.shields.io/badge/Machine%20Learning-103080?style=plastic)](your_link_here)
