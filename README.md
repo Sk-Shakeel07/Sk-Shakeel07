@@ -1,4 +1,4 @@
-![logo](https://github.com/Sk-Shakeel07/Sk-Shakeel07/blob/main/SK%20SHAKEEL%20AKHTAR%20(3).png)
+![logo](https://github.com/TVATDCI/TVATDCI/blob/main/assets/wave-up.svg)
 
 <picture>
   <source
@@ -69,3 +69,5 @@
 [![](https://visitcount.itsvg.in/api?id=Sk-Shakeel07&icon=9&color=6)](https://visitcount.itsvg.in)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sk-shakeel07&show_icons=true&locale=en" alt="sk-shakeel07" /></p>
+
+![logo](https://github.com/TVATDCI/TVATDCI/blob/main/assets/ani-down-aura.svg)
