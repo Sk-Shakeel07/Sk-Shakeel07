@@ -62,6 +62,7 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sk-shakeel07&show_icons=true&locale=en&layout=compact" alt="sk-shakeel07" /></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk-shakeel07&theme=github_dark" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sk-Shakeel07&limit=5&theme=dark&combine_all_yearly_contributions=true)
