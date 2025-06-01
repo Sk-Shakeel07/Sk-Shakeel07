@@ -40,7 +40,13 @@
 - ⚡ Fun fact **I think I am funny😊**
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/HIQG7JObbt/) - Check out my latest problems solved and challenges completed.
 
-![handshake](https://user-images.githubusercontent.com/50038188/210223714-596ff4e6-1339-436f-84c0-2a1f149c1e1b.gif)
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/50038188/210223714-596ff4e6-1339-436f-84c0-2a1f149c1e1b.gif" alt="handshake" height="100" style="display:inline-block;"/>
+  
+  <img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="waving cat" height="220" style="float:right;"/>
+</div>
+
+
 
 ## Connect With Me 🔗
 <p align="left">
